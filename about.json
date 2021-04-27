@@ -1,6 +1,6 @@
 {
   "name": "Hide Name on User Profile",
-  "about_url": null,
+  "about_url": "https://github.com/pfaffman/discourse-theme-remove-name-from-profile",
   "license_url": null,
   "component" : true,
   "assets": {
